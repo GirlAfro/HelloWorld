@@ -26,6 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="232dp"
         android:text="Click Me🤗"
+        android:onClick="onBtnChangeTextClick"
         app:layout_constraintEnd_toEndOf="@+id/tvChangeText"
         app:layout_constraintHorizontal_bias="0.49"
         app:layout_constraintStart_toStartOf="@+id/tvChangeText"
