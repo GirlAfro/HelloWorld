@@ -40,7 +40,7 @@
         android:layout_below="@id/btnChangeText"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:onClick="onBtnChangeTextClick"
+        android:onClick="onBtnChangeTextColorClick"
 
         tools:ignore="MissingConstraints" />
 
