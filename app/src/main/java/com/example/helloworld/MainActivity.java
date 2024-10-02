@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
     public void onBtnChangeTextClick(View view){
         TextView tvChangeText =findViewById(R.id.tvChangeText);
         tvChangeText.setText("You Are A Star💫");
-
+        tvChangeText.setTextColor(getResources().getColor(R.color.gray_color));
     }
+
+
 }
